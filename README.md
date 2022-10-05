@@ -2,6 +2,8 @@
 
 **O objetivo é pôr em prática meus conhecimentos em Git e GitHub por meio de desafios diários, de acordo com a tabela abaixo:**
 
+✔ Concluído | 🔵 Em desenvolvimento | ❌ Não iniciado
+
 Daily                                                                 |Situação
 ----------------------------------------------------------------------|---------
 Criar um repositório por meio do GitHub                               |✔
